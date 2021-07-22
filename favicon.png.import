@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/favicon.png-9e603e28929c7beaf7303b2b552b9187.stex"
+path="res://.import/favicon.png-b9f1bed4a4e7eef1d899273473cbe598.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://builds/protos/rompecabezas/0.1/favicon.png"
-dest_files=[ "res://.import/favicon.png-9e603e28929c7beaf7303b2b552b9187.stex" ]
+source_file="res://builds/protos/rompecabezas/0.2/favicon.png"
+dest_files=[ "res://.import/favicon.png-b9f1bed4a4e7eef1d899273473cbe598.stex" ]
 
 [params]
 
