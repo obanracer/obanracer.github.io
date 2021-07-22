@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/index.png-6e2d7aaf3a44228197aae17c92dcf7b6.stex"
+path="res://.import/index.png-0255ab83a77e3a020abe1939fd5bbb17.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://builds/protos/rompecabezas/0.2/index.png"
-dest_files=[ "res://.import/index.png-6e2d7aaf3a44228197aae17c92dcf7b6.stex" ]
+source_file="res://builds/protos/rompecabezas/0.3/index.png"
+dest_files=[ "res://.import/index.png-0255ab83a77e3a020abe1939fd5bbb17.stex" ]
 
 [params]
 
